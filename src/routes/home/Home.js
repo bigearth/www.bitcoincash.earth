@@ -27,7 +27,11 @@ class Home extends React.Component {
     return (
       <div className={s.root}>
         <div className={s.container}>
-          <h1>The Honey Badger is back</h1>
+          <h1>Bitcoin Cash</h1>
+          <h2>The Honey Badger is back</h2>
+          <p>
+            <a href='https://bitcoin.org/bitcoin.pdf'>The Bitcoin Whitepaper</a>
+          </p>
         </div>
       </div>
     );
