@@ -41,7 +41,7 @@ class Html extends React.Component {
         <head>
           <meta charSet="utf-8" />
           <meta httpEquiv="x-ua-compatible" content="ie=edge" />
-          <title>BitcoinCash.EARTH - Social Philanthropy</title>
+          <title>Social Philanthropy - BitcoinCash.EARTH</title>
           <meta name="description" content={description} />
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           {scripts.map(script =>
