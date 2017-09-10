@@ -49,7 +49,7 @@ class Home extends React.Component {
             <Col xs={12} sm={12} md={6} lg={6} >
               <h2>I&lsquo;d like to donate $</h2>
               <ol>
-                <li>Find someone in need of help via searching for the #BitcoinCashEARTH hashtag on twitter or facebook. Perform due diligence and confirm the person is legit and actually in need of help.</li>
+                <li>Find someone in need of help via searching for the #BitcoinCashEARTH hashtag on <a href='https://twitter.com/search?f=tweets&q=%23BitcoinCashEARTH&src=typd'>twitter</a> or <a href='https://www.facebook.com/search/top/?q=%23bitcoincashearth'>facebook</a>. Perform due diligence and confirm the person is legit and actually in need of help.</li>
                 <li>Sign in to your <a href='https://bcc-wallet.btc.com/'>Bitcoin Cash wallet</a>.</li>
                 <li>Go to 'Send' and paste the address of the person you intend to donate to in the Recipient address box.</li>
                 <li>Input the amount you want to donate and send it.</li>
